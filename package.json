@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/bprakashputta/chatbot#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "bootstrap": "^3.4.1",
+    "express": "^4.17.1",
+    "popper": "^1.0.1"
   }
 }
